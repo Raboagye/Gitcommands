@@ -16,7 +16,7 @@ function App() {
   return (
     <>   
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn a lot
         <div>{JSON.stringify(statee, null, 2)}</div>
       </p>
     </>
